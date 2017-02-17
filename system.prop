@@ -25,7 +25,7 @@ ro.telephony.get_imsi_from_sim=true
 ro.telephony.default_network=4
 
 # Don't consider Out Of Service as data call disconnect
-persist.telephony.oosisdc=false
+persist.telephony.oosisdc=true
 
 # Default ecclist
 ro.ril.ecclist=112,911,#911,*911
